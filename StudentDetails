@@ -1,0 +1,17 @@
+// java program to display Student Details
+/*file name:student.java
+date:02/08/2024
+author:nagasuresh
+*/
+import java.io.*;
+public class StudentDetails{
+    public static void main(String args[]){
+        System.out.println("_____________________________________________________");
+        System.out.println("\t\t\t\t\"Student Details\"");
+        System.out.println("_____________________________________________________");
+        System.out.println("Name:NagaSuresh\t\t\t\tReg No:23K61A4733");
+        System.out.println("Father Name:Yarrayya\t\tAadhar NO:554945304186");
+        System.out.println("Occupation:Farmer\t\t\tDOB:25/04/2005");
+        System.out.println("Parent MobileNo:8125923522\tNo.of subjects passed:18");
+    }
+}
