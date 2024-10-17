@@ -1,7 +1,7 @@
 import java.io.*;
 class Main{
     public static void main(String args[]){
-        String str="Saranya";
+        String str="NagaSuresh";
         System.out.printf("\nThe string value is:%s\n",str);
         int x=512;
         System.out.printf("\nThe integer value is:%d\n",x);
